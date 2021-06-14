@@ -3,3 +3,6 @@ test text
 
 #branchTesting
 This is a test for branching.
+
+#branchTesting2
+Test2 for branching.
